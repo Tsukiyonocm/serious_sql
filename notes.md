@@ -44,7 +44,7 @@ ORDER BY city_id DESC LIMIT 5;
 
 
 
-### Section 2 Record Counts & Distinct Values
+# Section 2 Record Counts & Distinct Values
 Getting a count of all the rows
 ```
 SELECT
