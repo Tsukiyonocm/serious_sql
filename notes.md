@@ -9,5 +9,5 @@ FROM schema_name.table_name
 
 Section 1: Select & Sort Data
 Exercises
-1. What is the 'name' of the category with the highest 'category_id' in the 'dvd_rentals.category' table?
+1. What is the `name`` of the category with the highest `category_id` in the `dvd_rentals.category` table?
 Answer: 
