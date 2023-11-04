@@ -17,3 +17,11 @@ SELECT customer_id, inventory_id, rental_date
 FROM dvd_rentals.rental
 ORDER BY inventory_id, rental_date DESC LIMIT 8;
 ```
+
+2. For the films with the longest `length`, what is the `title` of the "R" rated film with the lowest `replacement_cost` in `dvd_rentals.film` table?
+
+
+3. Who was teh `manager` of the store with the highest `total_sales` in the `dvd_rentals.sales_by_store` table?
+
+
+4. What is the `postal_code`of the city with the 5th highest `city_id` in the `dvd_rentals.address` table?
